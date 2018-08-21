@@ -17,16 +17,18 @@ In order to find a rental property in Ho Chi Minh, a user must search through fa
 - Anytime a new listing is published and matches the user's 'subscription' criteria, user will receive a push notification and   their subscription lists will be updated
 - User will have option to turn on/off push notification.
 - User required to create an account to save their 'subscriptions' and receive real-time notifications
+
+
+
+## Phase 2 and additional features
+
 - User can publish a listing with pictures and basic description of property.
 - The listing will be broadcast or 'published' to all renter 'subscriptions'
-
-
-## Additional Features
-
 - Tutorial
 - Instant messaging when match occurs
 - Multilingual for english and vietnamese
 - Property listings can be 'favorited' and additional updates (like price change) can be push notified.
+
 
 
 ## Concerns and thoughts
