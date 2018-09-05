@@ -1,0 +1,397 @@
+{
+  "propertyList": [
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Bình Thạnh",
+        "street": "59 Đường Ngô Tất Tố",
+        "ward": ""
+      },
+      "contactInfo": {
+        "email": "awesomeprogrammer@gmail.com",
+        "phoneNumber": "+84938448321"
+      },
+      "coordinates": {
+        "latitude": 10.793613,
+        "longitude": 106.711012
+      },
+      "description": {
+        "bath": 2,
+        "bdrm": 3,
+        "buildingName": "City Garden",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 1800,
+        "size": "210",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "type": "high-rise apartment"
+      },
+      "id": 351286,
+      "imgUrl": [
+        "https://en.sekaiproperty.com/img/sekai-property-building-image/file/3908/7342ebef-d7af-40a3-b053-a4aa4135eceb.jpg",
+        "http://www.honeycomb.vn/vnt_upload/product/09_2017/thumbs/420_City_Garden_wwwhoneycombvn_41_1.jpg",
+        "http://citygardensaigon.com/wp-content/uploads/2015/05/img6.jpg"
+      ],
+      "publishTime": "2018-08-22T09:21:52.772Z",
+      "publisher": "John Trinh"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "District 2",
+        "street": "25 duong 46",
+        "ward": "Thao Dien"
+      },
+      "contactInfo": {
+        "email": "residential@icasa.com",
+        "phoneNumber": "+84938448001"
+      },
+      "coordinates": {
+        "latitude": 10.808564,
+        "longitude": 106.729872
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 1,
+        "buildingName": "iCasa",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 500,
+        "size": "55 sqm",
+        "text": "Serviced apartment in the heart of Thao Dien. Affordable and fine dining near by.",
+        "type": "serviced apartment"
+      },
+      "id": 489998,
+      "imgUrl": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/147/147389433.jpg",
+        "https://a0.muscache.com/im/pictures/a9cb43c3-ee31-4288-8647-34948090a50a.jpg?aki_policy=xx_large"
+      ],
+      "publishTime": "2018-06-22T10:21:52.772Z",
+      "publisher": "Icasa Incorporated"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Bình Thạnh",
+        "street": "92 Nguyễn Hữu Cảnh",
+        "ward": "Phường 22"
+      },
+      "contactInfo": {
+        "email": "tnguyen@saigonpearl.com",
+        "phoneNumber": "+84966448321"
+      },
+      "coordinates": {
+        "latitude": 10.79003,
+        "longitude": 106.719818
+      },
+      "description": {
+        "bath": 2,
+        "bdrm": 2,
+        "buildingName": "Saigon Pearl",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 1200,
+        "size": "180 sqm",
+        "text": "Lovely apartment for rent. Pool, gym, east side. Great location 5 minutes from D1",
+        "type": "high-rise apartment"
+      },
+      "id": 351776,
+      "imgUrl": [
+        "http://www.bloomhouse.com.vn/images/thumbnail/modern-style-penthouse-saigon-pearl-apartment-with-river-view_tbn_1488707691.jpg"
+      ],
+      "publishTime": "2018-09-02T09:21:52.772Z",
+      "publisher": "Trang Tri Nguyen"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "District 2",
+        "street": "43 Đường 12",
+        "ward": "Thao Dien"
+      },
+      "contactInfo": {
+        "email": "Dtnguyen@kellyapt.com",
+        "phoneNumber": "+80966448321"
+      },
+      "coordinates": {
+        "latitude": 10.806806,
+        "longitude": 106.730089
+      },
+      "description": {
+        "bath": 2,
+        "bdrm": 1,
+        "buildingName": "Kelly Apartments",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 500,
+        "size": "30 sqm",
+        "text": "Fully furnished room with gym, sauna, cleaning, change bedsheet, 24 hours security, internet, cable tv, and parking ",
+        "type": "serviced apartment"
+      },
+      "id": 324776,
+      "imgUrl": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/622/62297007.jpg",
+        "http://kellyhotel.com.vn/uploadwb/hinh_album/Q2-BEP_1423201610417_b_.jpg",
+        "https://images.trvl-media.com/hotels/15000000/14920000/14912200/14912137/14912137_29_z.jpg",
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/773/77342659.jpg"
+      ],
+      "publishTime": "2018-09-03T09:21:52.772Z",
+      "publisher": "Duc T Nguyen"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Binh Thanh",
+        "street": "91 Nguyễn Hữu Cảnh",
+        "ward": "Phường 22"
+      },
+      "contactInfo": {
+        "email": "ttran@themanor.com",
+        "phoneNumber": "+80999118321"
+      },
+      "coordinates": {
+        "latitude": 10.794093,
+        "longitude": 106.717952
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 2,
+        "buildingName": "The Manor",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 700,
+        "size": "50 sqm",
+        "text": "The Manor located in the heart of Binh Thanh. Fully furnished room with gym, sauna, cleaning, change bedsheet, 24 hours security, internet, cable tv, and parking ",
+        "type": "high-rise apartment"
+      },
+      "id": 323016,
+      "imgUrl": [
+        "http://www.apartmentforrenthcm.com/kcfinder/upload/images/the-manor-for-rent-2%2819%29.jpg",
+        "https://www.saigonrest.com/upload/condos-for-rent-1521777280.jpg?w=510&h=340&zc=0&q=100&",
+        "http://www.serviced-apartment.vn/images/project/The-Manor_2-The%20Manor.jpg"
+      ],
+      "publishTime": "2018-09-01T09:21:52.772Z",
+      "publisher": "Tram T Tran"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Binh Thanh",
+        "street": "208 Nguyen Huu Canh",
+        "ward": "Phường 22"
+      },
+      "contactInfo": {
+        "email": "phamhai@vinhome.com",
+        "phoneNumber": "+80976718321"
+      },
+      "coordinates": {
+        "latitude": 10.792465,
+        "longitude": 106.723848
+      },
+      "description": {
+        "bath": 2,
+        "bdrm": 3,
+        "buildingName": "Vinhomes Central Park",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 2100,
+        "size": "210 sqm",
+        "text": "Inspired by the famous Central Park in New York City, Vinhomes Central Park proudly brings to its residents the ideal living environment - harmony with nature combined with a five-star city lifestyle. Vinhomes Central Park is a place to build true life values worthy of this most modern and classy township development. ",
+        "type": "high-rise apartment"
+      },
+      "id": 400001,
+      "imgUrl": [
+        "http://www.apartmentsvinhomescentralpark.com/images/users/images/vinhomescentralpark17(1).jpg",
+        "http://www.apartmentsvinhomescentralpark.com/images/products/pic-renting-modern-apartment-with-3-bedrooms-in-park-1-vinhomes-central-park-full-furnishings-2015102791050.jpg",
+        "https://diaoc888.com/wp-content/uploads/2018/03/vinhomes-central-park.jpg",
+        "http://www.vinhomescentralpark.co/wp-content/uploads/2016/04/phoi-canh-vinhomes-central-park-1.jpg"
+      ],
+      "publishTime": "2018-08-28T09:21:52.772Z",
+      "publisher": "Hai T Pham"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "District 2",
+        "street": "106 Xuan Thuy",
+        "ward": "Thao Dien"
+      },
+      "contactInfo": {
+        "email": "lazarad@mimosa_living.com",
+        "phoneNumber": "+80221718321"
+      },
+      "coordinates": {
+        "latitude": 10.804084,
+        "longitude": 106.735982
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 1,
+        "buildingName": "Mimosa Serviced Apartment",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 800,
+        "size": "30 sqm",
+        "text": "Mimosa serviced aparment proudly brings to its residents the ideal living environment - harmony with nature combined with a five-star city lifestyle. Mimosa is a place to build true life values worthy of this most modern and classy township development. ",
+        "type": "studio apartment"
+      },
+      "id": 400002,
+      "imgUrl": [
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/102/102561737.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/843/84377730.jpg"
+      ],
+      "publishTime": "2018-08-29T09:21:52.772Z",
+      "publisher": "David Lazara"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Bình Thạnh",
+        "street": "59 Đường Ngô Tất Tố",
+        "ward": ""
+      },
+      "contactInfo": {
+        "email": "awesomeprogrammer@gmail.com",
+        "phoneNumber": "+84938448321"
+      },
+      "coordinates": {
+        "latitude": 10.793613,
+        "longitude": 106.711012
+      },
+      "description": {
+        "bath": 2,
+        "bdrm": 3,
+        "buildingName": "City Garden D4 Fake",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 1800,
+        "size": "210",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "type": "high-rise apartment"
+      },
+      "id": 242322424200,
+      "imgUrl": [
+        "https://en.sekaiproperty.com/img/sekai-property-building-image/file/3908/7342ebef-d7af-40a3-b053-a4aa4135eceb.jpg",
+        "http://www.honeycomb.vn/vnt_upload/product/09_2017/thumbs/420_City_Garden_wwwhoneycombvn_41_1.jpg",
+        "http://citygardensaigon.com/wp-content/uploads/2015/05/img6.jpg"
+      ],
+      "publishTime": "2018-08-22T09:21:52.772Z",
+      "publisher": "John Trinh"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "District 2",
+        "street": "25 duong 46",
+        "ward": "Thao Dien"
+      },
+      "contactInfo": {
+        "email": "residential@icasa.com",
+        "phoneNumber": "+84938448001"
+      },
+      "coordinates": {
+        "latitude": 10.808564,
+        "longitude": 106.729872
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 1,
+        "buildingName": "iCasa Fake",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 500,
+        "size": "55 sqm",
+        "text": "Serviced apartment in the heart of Thao Dien. Affordable and fine dining near by.",
+        "type": "serviced apartment"
+      },
+      "id": 48999800,
+      "imgUrl": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/147/147389433.jpg",
+        "https://a0.muscache.com/im/pictures/a9cb43c3-ee31-4288-8647-34948090a50a.jpg?aki_policy=xx_large"
+      ],
+      "publishTime": "2018-06-22T10:21:52.772Z",
+      "publisher": "Icasa Incorporated"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Binh Thanh",
+        "street": "91 Nguyễn Hữu Cảnh",
+        "ward": "Phường 22"
+      },
+      "contactInfo": {
+        "email": "ttran@themanor.com",
+        "phoneNumber": "+80999118321"
+      },
+      "coordinates": {
+        "latitude": 10.7568872,
+        "longitude": 106.7031385
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 2,
+        "buildingName": "The Manor D4 Faake",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 700,
+        "size": "50 sqm",
+        "text": "The Manor located in the heart of Binh Thanh. Fully furnished room with gym, sauna, cleaning, change bedsheet, 24 hours security, internet, cable tv, and parking ",
+        "type": "high-rise apartment"
+      },
+      "id": 23144864531,
+      "imgUrl": [
+        "http://www.apartmentforrenthcm.com/kcfinder/upload/images/the-manor-for-rent-2%2819%29.jpg",
+        "https://www.saigonrest.com/upload/condos-for-rent-1521777280.jpg?w=510&h=340&zc=0&q=100&",
+        "http://www.serviced-apartment.vn/images/project/The-Manor_2-The%20Manor.jpg"
+      ],
+      "publishTime": "2018-09-01T09:21:52.772Z",
+      "publisher": "Tram T Tran"
+    },
+    {
+      "address": {
+        "city": "HCMC",
+        "country": "Vietnam",
+        "district": "Binh Thanh",
+        "street": "91 Nguyễn Hữu Cảnh",
+        "ward": "Phường 22"
+      },
+      "contactInfo": {
+        "email": "ttran@themanor.com",
+        "phoneNumber": "+80999118321"
+      },
+      "coordinates": {
+        "latitude": 10.7579298,
+        "longitude": 106.7108127
+      },
+      "description": {
+        "bath": 1,
+        "bdrm": 2,
+        "buildingName": "The Manor D4 Fake",
+        "currency": "usd",
+        "leaseType": "residential",
+        "price": 700,
+        "size": "50 sqm",
+        "text": "The Manor located in the heart of Binh Thanh. Fully furnished room with gym, sauna, cleaning, change bedsheet, 24 hours security, internet, cable tv, and parking ",
+        "type": "high-rise apartment"
+      },
+      "id": 32301600,
+      "imgUrl": [
+        "http://www.apartmentforrenthcm.com/kcfinder/upload/images/the-manor-for-rent-2%2819%29.jpg",
+        "https://www.saigonrest.com/upload/condos-for-rent-1521777280.jpg?w=510&h=340&zc=0&q=100&",
+        "http://www.serviced-apartment.vn/images/project/The-Manor_2-The%20Manor.jpg"
+      ],
+      "publishTime": "2018-09-01T09:21:52.772Z",
+      "publisher": "Tram T Tran"
+    }
+  ]
+}
