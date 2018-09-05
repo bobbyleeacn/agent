@@ -1,0 +1,98 @@
+[
+  {
+    "id": 351286,
+    "publish_time": "2018-08-22T09:21:52.772Z",
+    "publisher": "John Trinh",
+    "contact_info": {
+      "phone_number": "+84938448321",
+      "email": "awesomeprogrammer@gmail.com"
+    },
+    "coordinates": { "latitude": 10.793613, "longitude": 106.711012 },
+    "address": {
+      "street": "59 Đường Ngô Tất Tố",
+      "ward": "",
+      "district": "Bình Thạnh",
+      "city": "HCMC",
+      "country": "Vietnam"
+    },
+    "imgUrl": [
+      "https://en.sekaiproperty.com/img/sekai-property-building-image/file/3908/7342ebef-d7af-40a3-b053-a4aa4135eceb.jpg",
+      "http://www.honeycomb.vn/vnt_upload/product/09_2017/thumbs/420_City_Garden_wwwhoneycombvn_41_1.jpg",
+      "http://citygardensaigon.com/wp-content/uploads/2015/05/img6.jpg"
+    ],
+    "description": {
+      "bdrm": 3,
+      "bath": 2,
+      "type": "high-rise apartment",
+      "size": "210 sqm",
+      "price": 1800,
+      "currency": "usd",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "building_name": "City Garden",
+      "lease_type": "residential"
+    }
+  },
+  {
+    "id": 489998,
+    "publish_time": "2018-06-22T10:21:52.772Z",
+    "publisher": "Icasa Incorporated",
+    "contact_info": {
+      "phone_number": "+84938448001",
+      "email": "residential@icasa.com"
+    },
+    "coordinates": { "latitude": 10.808564, "longitude": 106.729872 },
+    "address": {
+      "street": "25 duong 46",
+      "ward": "Thao Dien",
+      "district": "District 2",
+      "city": "HCMC",
+      "country": "Vietnam"
+    },
+    "imgUrl": [
+      "https://t-ec.bstatic.com/images/hotel/max1024x768/147/147389433.jpg",
+      "https://a0.muscache.com/im/pictures/a9cb43c3-ee31-4288-8647-34948090a50a.jpg?aki_policy=xx_large"
+    ],
+    "description": {
+      "bdrm": 1,
+      "bath": 1,
+      "type": "serviced apartment",
+      "size": "55 sqm",
+      "price": 500,
+      "currency": "usd",
+      "text": "Serviced apartment in the heart of Thao Dien. Affordable and fine dining near by.",
+      "building_name": "iCasa",
+      "lease_type": "residential"
+    }
+  },
+  {
+    "id": 351776,
+    "publish_time": "2018-09-02T09:21:52.772Z",
+    "publisher": "Trang Tri Nguyen",
+    "contact_info": {
+      "phone_number": "+84966448321",
+      "email": "tnguyen@saigonpearl.com"
+    },
+    "coordinates": { "latitude": 10.79003, "longitude": 106.719818 },
+    "address": {
+      "street": "92 Nguyễn Hữu Cảnh",
+      "ward": "Phường 22",
+      "district": "Bình Thạnh",
+      "city": "HCMC",
+      "country": "Vietnam"
+    },
+    "imgUrl": [
+      "http://www.bloomhouse.com.vn/images/thumbnail/modern-style-penthouse-saigon-pearl-apartment-with-river-view_tbn_1488707691.jpg"
+    ],
+    "description": {
+      "bdrm": 2,
+      "bath": 2,
+      "type": "high-rise apartment",
+      "size": "180 sqm",
+      "price": 1200,
+      "currency": "usd",
+      "text": "Lovely apartment for rent. Pool, gym, east side. Great location 5 minutes from D1",
+      "building_name": "Saigon Pearl",
+      "lease_type": "residential"
+    }
+  }
+]
