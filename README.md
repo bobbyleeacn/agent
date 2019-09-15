@@ -1,6 +1,7 @@
-# Final Project - *My Agent* (name still undecided)
+# Final Project - *My Realestate Agent*
 
-**My Agent** is a rental property search app.
+**My Realestate Agent** is a rental property search app.
+The [final project code](https://github.com/agent-real-estate-rn/real-esate-app) can be found [here.](https://github.com/agent-real-estate-rn/real-esate-app)
 
 ## Description of App
 
